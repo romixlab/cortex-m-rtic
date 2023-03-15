@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"rtic_monotonics":[["impl <a class=\"trait\" href=\"rtic_monotonics/trait.Monotonic.html\" title=\"trait rtic_monotonics::Monotonic\">Monotonic</a> for <a class=\"struct\" href=\"rtic_monotonics/systick/struct.Systick.html\" title=\"struct rtic_monotonics::systick::Systick\">Systick</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

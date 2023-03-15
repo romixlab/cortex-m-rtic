@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["HEX_BUILD_ROOT"],"fn":["init_build_dir"]};

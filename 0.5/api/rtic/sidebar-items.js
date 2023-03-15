@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["app"],"fn":["pend"],"struct":["Exclusive","Fraction","Peripherals"],"trait":["Monotonic","MultiCore","Mutex"]};

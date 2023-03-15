@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BinaryHeap","LinearMap","Queue","String","Vec"]};

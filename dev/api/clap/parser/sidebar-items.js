@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MatchesError","ValueSource"],"struct":["IdsRef","Indices","RawValues","Values","ValuesRef"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CANTCREAT","CONFIG","DATAERR","IOERR","NOHOST","NOINPUT","NOPERM","NOUSER","OK","OSERR","OSFILE","PROTOCOL","SOFTWARE","TEMPFAIL","UNAVAILABLE","USAGE"],"fn":["is_error","is_success"],"type":["ExitCode"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Access","CustomArg"],"struct":["App","AppArgs","ExternInterrupt","HardwareTask","HardwareTaskArgs","Idle","IdleArgs","Init","InitArgs","LateResource","Local","Resource","SoftwareTask","SoftwareTaskArgs"],"type":["ExternInterrupts","Idles","Inits","Resources"]};

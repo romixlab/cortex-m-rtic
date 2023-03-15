@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BuildMode","CargoCommand"],"fn":["run_command","run_successful"]};

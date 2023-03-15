@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":["TupleExt01","TupleExt02","TupleExt03","TupleExt04","TupleExt05","TupleExt06","TupleExt07","TupleExt08","TupleExt09","TupleExt10","TupleExt11","TupleExt12"]};

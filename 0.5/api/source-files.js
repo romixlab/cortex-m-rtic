@@ -1,0 +1,20 @@
+var sourcesIndex = JSON.parse('{\
+"as_slice":["",[],["lib.rs"]],\
+"byteorder":["",[],["lib.rs"]],\
+"cortex_m_rtic_macros":["",[["codegen",[],["assertions.rs","dispatchers.rs","hardware_tasks.rs","idle.rs","init.rs","locals.rs","module.rs","post_init.rs","pre_init.rs","resources.rs","resources_struct.rs","schedule.rs","schedule_body.rs","software_tasks.rs","spawn.rs","spawn_body.rs","timer_queue.rs","util.rs"]]],["analyze.rs","check.rs","codegen.rs","lib.rs"]],\
+"generic_array":["",[],["arr.rs","functional.rs","hex.rs","impls.rs","iter.rs","lib.rs","sequence.rs"]],\
+"hash32":["",[],["fnv.rs","lib.rs","murmur3.rs"]],\
+"hashbrown":["",[["external_trait_impls",[],["mod.rs"]],["raw",[],["alloc.rs","bitmask.rs","mod.rs","sse2.rs"]]],["lib.rs","macros.rs","map.rs","scopeguard.rs","set.rs"]],\
+"heapless":["",[["pool",[],["cas.rs","mod.rs","singleton.rs"]],["spsc",[],["mod.rs","split.rs"]]],["binary_heap.rs","histbuf.rs","i.rs","indexmap.rs","indexset.rs","lib.rs","linear_map.rs","mpmc.rs","sealed.rs","string.rs","vec.rs"]],\
+"indexmap":["",[["map",[["core",[],["raw.rs"]]],["core.rs"]]],["arbitrary.rs","equivalent.rs","lib.rs","macros.rs","map.rs","mutable_keys.rs","set.rs","util.rs"]],\
+"proc_macro2":["",[],["detection.rs","extra.rs","fallback.rs","lib.rs","marker.rs","parse.rs","rcvec.rs","wrapper.rs"]],\
+"quote":["",[],["ext.rs","format.rs","ident_fragment.rs","lib.rs","runtime.rs","spanned.rs","to_tokens.rs"]],\
+"rtic":["",[],["export.rs","lib.rs","tq.rs"]],\
+"rtic_core":["",[],["lib.rs"]],\
+"rtic_syntax":["",[["parse",[],["app.rs","extern_interrupt.rs","hardware_task.rs","idle.rs","init.rs","late_resource.rs","local.rs","software_task.rs","util.rs"]]],["accessors.rs","analyze.rs","ast.rs","check.rs","lib.rs","optimize.rs","parse.rs"]],\
+"stable_deref_trait":["",[],["lib.rs"]],\
+"syn":["",[["gen",[],["clone.rs","debug.rs","eq.rs","hash.rs"]]],["attr.rs","await.rs","bigint.rs","buffer.rs","custom_keyword.rs","custom_punctuation.rs","data.rs","derive.rs","discouraged.rs","drops.rs","error.rs","export.rs","expr.rs","ext.rs","file.rs","gen_helper.rs","generics.rs","group.rs","ident.rs","item.rs","lib.rs","lifetime.rs","lit.rs","lookahead.rs","mac.rs","macros.rs","op.rs","parse.rs","parse_macro_input.rs","parse_quote.rs","pat.rs","path.rs","print.rs","punctuated.rs","reserved.rs","sealed.rs","span.rs","spanned.rs","stmt.rs","thread.rs","token.rs","tt.rs","ty.rs","verbatim.rs","whitespace.rs"]],\
+"typenum":["",[],["array.rs","bit.rs","int.rs","lib.rs","marker_traits.rs","operator_aliases.rs","private.rs","type_operators.rs","uint.rs"]],\
+"unicode_ident":["",[],["lib.rs","tables.rs"]]\
+}');
+createSourceSidebar();

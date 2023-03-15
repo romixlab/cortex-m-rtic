@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"os_pipe":[["impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/io/trait.Read.html\" title=\"trait std::io::Read\">Read</a> for &amp;'a <a class=\"struct\" href=\"os_pipe/struct.PipeReader.html\" title=\"struct os_pipe::PipeReader\">PipeReader</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/io/trait.Read.html\" title=\"trait std::io::Read\">Read</a> for <a class=\"struct\" href=\"os_pipe/struct.PipeReader.html\" title=\"struct os_pipe::PipeReader\">PipeReader</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Location","Ownership"],"struct":["Analysis","Channel","TimerQueue"],"type":["Ceiling","Channels","FreeQueues","InitializationBarriers","LateResources","Locations","Ownerships","Priority","Receiver","Resource","SendTypes","Sender","SpawnBarriers","SyncTypes","Task","TimerQueues"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Consumer","Iter","IterMut","MultiCore","Producer","Queue","SingleCore"]};
